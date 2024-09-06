@@ -3,3 +3,4 @@ adding some text to this for step 6.
 It's been two weeks, I have changed back to Linux on a VM-- so I can play games on Steam during breaks while I am working through TOP.
 
 I just re-setup git and cloned my main repository.
+Working on submitting the Git commit message editor.
